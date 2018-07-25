@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++0x  -rdynamic CMakeFiles/fpa_roudings.dir/fpa_roundings.o  -o fpa_roudings 

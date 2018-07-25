@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++0x  -rdynamic CMakeFiles/patriot.dir/patriot.o  -o patriot 

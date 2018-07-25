@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rcreager/jupyter/codas_fpa/02_fpa/fpa_order.cpp
+algorithm
+-
+iostream
+-
+vector
+-
+random
+-
+limits
+-
+iomanip
+-
+

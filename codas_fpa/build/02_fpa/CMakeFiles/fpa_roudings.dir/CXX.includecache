@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rcreager/jupyter/codas_fpa/02_fpa/fpa_roundings.cpp
+vector
+-
+random
+-
+cfenv
+-
+iostream
+-
+iomanip
+-
+
